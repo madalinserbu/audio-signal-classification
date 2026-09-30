@@ -1,13 +1,10 @@
-# README - Tema PS 2025
-
-Autor: Serbu Ovidiu Madalin
-Grupa: 344C2
+# README - Audio signal classification
 
 ---
 
-## 1. Scopul temei
+## 1. Scopul proiectului
 
-Scopul acestei teme este analiza si clasificarea semnalelor audio folosind filtre de tip Gabor si un filtru alternativ ales (Mexican Hat), urmate de extragerea trasaturilor statistice si aplicarea unor clasificatori de tip machine learning. Tema urmareste evidentierea influentei tipului de filtru si a clasificatorului asupra performantei sistemului.
+Scopul acestui proiect este analiza si clasificarea semnalelor audio folosind filtre de tip Gabor si un filtru alternativ ales (Mexican Hat), urmate de extragerea trasaturilor statistice si aplicarea unor clasificatori de tip machine learning. Proiectul urmareste evidentierea influentei tipului de filtru si a clasificatorului asupra performantei sistemului.
 
 ---
 
@@ -162,23 +159,6 @@ Graficul confirma superioritatea combinatiei SVM + Gabor.
 * Combinatia optima obtinuta: SVM + Gabor.
 
 ---
-
-## 9. Cerinte neatinse
-
-Toate cerintele majore ale enuntului au fost implementate.
-Singurele limitari tin de performanta mai scazuta a filtrului Mexican Hat, dar acesta a fost folosit conform cerintei.
-
----
-
-## 10. Concluzie finala
-
-Tema respecta toate cerintele obligatorii din enunt:
-
-* implementare filtre
-* extragere trasaturi
-* clasificare multipla
-* grafice si comparatii
-* analiza rezultatelor
 
 Rezultatele obtinute demonstreaza importanta alegerii corecte a filtrului si a clasificatorului in procesarea semnalelor audio.
 
